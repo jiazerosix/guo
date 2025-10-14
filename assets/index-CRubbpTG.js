@@ -1,0 +1,1 @@
+import{u as r,e as a,f as n,g as e,i as s,P as u}from"./index-C7SXX2HX.js";import{O as c}from"./OrderTableCommon-CDTfOLXD.js";import"./index-FYHjvpdJ.js";import"./index-xSD-QbnJ.js";const x={__name:"index",setup(m){const o=r();return(l,p)=>{const t=u;return n(),a("div",null,[e(t,{route:s(o)},null,8,["route"]),e(c)])}}};export{x as default};
